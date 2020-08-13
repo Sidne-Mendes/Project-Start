@@ -1,2 +1,3 @@
 # Project-Start
 Criado no Ano de 2019 para o projeto final do start latam foi desenvolvido como um crud para cadastro, listagem e administração de funcionarios e produtos.
+Projeto Start Latam 2019 - No projeto Java Web contem codigos Java, HTML, CSS. Usando os metodos padrões MVC, com ferramentas como: Servlet, sql connector, DAO, XML, Filter. O projeto consiste em um sistema que tem como funcionalidade cadastro de produtos e funcionarios, imprime tabela na tela, altera tabela no banco de dados de acordo com entradas e saídas do sistema deixando assim o sistema atualizado a cada entrada e saída.
